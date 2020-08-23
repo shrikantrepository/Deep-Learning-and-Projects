@@ -5,22 +5,21 @@
 
 
 ## Overview
-• This repository consists of all my Deep Learning projects.
-
-• Datasets are provided in each of the folders above, and the solution to the problem statements as well.
+This repository consists of all my Deep Learning projects.\
+Datasets are provided in each of the folders above, and the solution to the problem statements as well.
 
 ### List of Deep Learning algorithms that are used in these projects --
 
 ### Neural Networks:
-• Artificial Neural Network (ANN)
+1. *Artificial Neural Network (ANN)*
 
-• Recurrent Neural Network (RNN)
+2. *Recurrent Neural Network (RNN)*
 
-• Convolution Neural Network (CNN)
+3. *Convolution Neural Network (CNN)*
 
 ### ANN Projets
 
-• Churn_Modelling - This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his account) or he continues to be a customer.
+1. **Churn_Modelling** - This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left     the bank (closed his account) or he continues to be a customer.
 
 
 ### CNN Projets
