@@ -1,4 +1,4 @@
-# Churn Modelling - Bank Customer Retension 
+## Churn Modelling - Bank Customer Retension 
 ### Project Overview
 1. *Created a model that predicts whether the customer left the bank (closed his account) or he continues to be a customer.*
 1. *Engineered features ....*
