@@ -9,7 +9,7 @@
 
 • Datasets are provided in each of the folders above, and the solution to the problem statements as well.
 
-## List of Deep Learning algorithms that are used in these projects --
+### List of Deep Learning algorithms that are used in these projects --
 
 ### Neural Networks:
 • Artificial Neural Network (ANN)
