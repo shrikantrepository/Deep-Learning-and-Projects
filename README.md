@@ -1,4 +1,4 @@
-# Deep-Learning-and-Projects
+# Deep-Learning and Projects
 
 ## Why this repository?
 • The main purpose of making this repository is to keep all my Deep Learning projects at one place, hence keeping my GitHub clean!
