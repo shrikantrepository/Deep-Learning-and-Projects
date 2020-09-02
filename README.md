@@ -19,7 +19,7 @@ Datasets are provided in each of the folders above, and the solution to the prob
 
 ### ANN Projets
 
-1. **Churn_Modelling** - This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left     the bank (closed his account) or he continues to be a customer.
+1. **Churn_Modelling** - This data set contains details of a bank's customers and the target variable is a binary variable reflecting the fact whether the customer left     the bank (closed his account) or he continues to be a customer..
 
 
 ### CNN Projets
